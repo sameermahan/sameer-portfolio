@@ -7,7 +7,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
+
 
 ---
 
