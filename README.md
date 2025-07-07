@@ -7,6 +7,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
+- [Excel](#excel)
 
 
 ---
@@ -35,5 +36,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## Tableau
 
 *Coming soon!*
+
+## Excel
+
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|-------|---------------------|
+| 🚗📊 [Nigerian Car Market Analysis](https://github.com/sameermahan/-Nigerian-Car-Market) | May 2023 | Python, BeautifulSoup, urllib3, Excel | Scraped and processed car listing data from Car45.com using Python libraries (BeautifulSoup, urllib3). Cleaned and transformed over 2,000 records in Excel, modeled key features, and built an interactive Excel dashboard to analyze pricing trends, popular brands, and consumer preferences in the Nigerian car market. |
+
+
+---
 
 ---
