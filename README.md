@@ -29,7 +29,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Python
 
-*Coming soon!*
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|-------|---------------------|
+| 🎬📈 [Netflix Stock Data Analysis](https://github.com/sameermahan/Netflix-Stock-Data-Analysis/blob/main/Netflix%20Stock%20Data%20Analysis.ipynb) | July 2025 | Python, Pandas, Matplotlib, Jupyter Notebook | Analyzed Netflix stock price history using Pandas for data cleaning and transformation. Explored trends in opening and closing prices, trading volume, and calculated moving averages to identify patterns. Visualized insights with Matplotlib charts and summarized findings in a clear, business-oriented Jupyter Notebook for storytelling and portfolio presentation. |
 
 ---
 
