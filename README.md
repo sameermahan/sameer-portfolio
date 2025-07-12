@@ -23,7 +23,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## SQL
 
-*Coming soon!*
+* Under Construction!*
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Tableau
 
-*Coming soon!*
+* Under Construction!*
 
 ## Excel
 
